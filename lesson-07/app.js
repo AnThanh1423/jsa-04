@@ -1,0 +1,5 @@
+let h2Element = document.getElementById("title")
+console.dir(h2Element)
+console.log(h2Element.id)
+console.log(h2Element.classList)
+console.log(h2Element.localName)
